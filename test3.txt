@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7EB1-2F0A
+
+ Directory of C:\JavaProject1
+
+06/24/2020  02:16 PM    <DIR>          .
+06/24/2020  02:16 PM    <DIR>          ..
+06/19/2020  03:59 PM               900 Hello.class
+06/18/2020  05:47 PM               154 Hello.java
+06/19/2020  03:29 PM               495 index.html
+06/19/2020  03:27 PM               444 readme.txt
+06/19/2020  03:56 PM               545 test2.txt
+06/24/2020  02:16 PM                 0 test3.txt
+               6 File(s)          2,538 bytes
+               2 Dir(s)  417,767,821,312 bytes free
